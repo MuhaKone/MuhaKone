@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=MuhaKone%20🚀&fontSize=50&fontColor=fff&animation=fadeIn"/>
+</p>
+
 # 👋 Hi, I'm MuhaKone  
 
 🚀 **FullStack Developer Junior** | Passionné par le **web**, le **mobile** et l’**IA**  
@@ -32,10 +36,10 @@
 ## 📂 Featured Projects
 
 - 🚦 **[baseline-predictor-ai](#)** – Outil d’IA pour prédictions  
-- 🧹 **baseline-legacy-remover** – Gestion de legacy code  
-- 🌍 **amenGuinee** – Projet en TypeScript pour la Guinée  
-- 📱 **AM3NG** – App mobile en Flutter/Dart  
-- 💻 **truffulk-website** – Site vitrine sous TypeScript  
+- 🧹 **[baseline-legacy-remover](#)** – Gestion de legacy code  
+- 🌍 **[amenGuinee](#)** – Projet en TypeScript pour la Guinée  
+- 📱 **[Cunity App](#)** – App mobile en Flutter/Dart  
+- 💻 **[Guicom Simplify](#)** – Saas pour la gestion d'entreprise 
 
 ---
 
@@ -48,10 +52,10 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-handle)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/condormohamed)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/condormoha)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge)](https://your-portfolio-link.com)  
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yourmail@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hawamamady21@gmail.com)  
 
 ---
 
